@@ -6,3 +6,5 @@ This library calls git commands and returns the output.
 Author : Scott Chacon
 
 Ceci est un ajout de la branche
+
+Ceci est une petit modif de testing ! Aucun conflit a l'horizon, lalala !
